@@ -275,6 +275,5 @@ PromptGraph is not just a chat enhancer — it’s a **visual AI workspace**. By
 
 ---
 
-**⭐ Star this project** if you believe in organized, intelligent AI interaction!
 
 > Built with ❤️ by Kiran Ranganalli
